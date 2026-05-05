@@ -1,0 +1,22 @@
+# Scala / SBT
+target/
+project/target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.iml
+.idea/
+*.ipr
+*.iws
+.DS_Store
+.vscode/
+logs/
+
+# Spark output / generated files
+FlightAnalytics_Output/
+
+# OS files
+Thumbs.db
+desktop.ini
